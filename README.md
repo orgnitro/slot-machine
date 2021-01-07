@@ -1,4 +1,4 @@
-Slot Machine application using Pixi.js
+Simple slot game app using Pixi.js
 
 How to run it:
 1) git clone https://github.com/orgnitro/slot-machine.git
